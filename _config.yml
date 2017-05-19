@@ -1,6 +1,6 @@
 
 title: CV
-url: 'http://webjeda.com'
+url: 'https://github.com/Phivan'
 baseurl: '/cv' #change it according to your repository name
 
 
@@ -9,7 +9,7 @@ baseurl: '/cv' #change it according to your repository name
 #style: styles-3
 #style: styles-4
 #style: styles-5
-#style: styles-6
+style: styles-6
 
 
 #Profile information
@@ -23,7 +23,7 @@ email: phivan.leguidec@gmail.com
 website: phivan.github.io/cv/ 
 linkedin: alandoe
 github: Phivan
-twitter: '@webjeda'
+#twitter: '@webjeda'
 
 
 # Tracker
