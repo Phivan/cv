@@ -285,6 +285,10 @@ p {
   .skills-section {
     padding-top: 20px
   }
+
+  .footer {
+    background: #FFF;
+  }
 }
 
 @media (max-width: 480px) {
