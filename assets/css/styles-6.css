@@ -268,7 +268,6 @@ p {
   .main-wrapper {
     padding: 30px;
     width: 570px;
-    page-break-after: auto;
   }
   .main-wrapper .time {
     position: static;
@@ -277,6 +276,10 @@ p {
   }
   .main-wrapper .upper-row {
     margin-bottom: 0;
+  }
+
+  .section {
+    page-break-after: auto;
   }
 }
 
